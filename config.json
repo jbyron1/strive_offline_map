@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Player",
-    "colorLabel": "Community",
-    "nodeLabel": "Game"
+    "colorLabel": "Detected Community",
+    "nodeLabel": "Tournament"
   },
   "features": {
     "search": true,
