@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "@JD__FGC"
   },
   "text": {
     "more": "",
-    "intro": "",
-    "title": ""
+    "intro": "Graph of all non-platform fighting games played on start.gg this year",
+    "title": "Start.gg Games 2022"
   },
   "legend": {
     "edgeLabel": "Player",
     "colorLabel": "Community",
-    "nodeLabel": "Tournament"
+    "nodeLabel": "Game"
   },
   "features": {
     "search": true,
